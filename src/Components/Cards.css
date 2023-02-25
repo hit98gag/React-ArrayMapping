@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Saira+Semi+Condensed:wght@200&display=swap');
+.cards{
+    width: 100px;
+    height: 113px;
+    display: flex;
+    border: 1px white solid;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-family: 'Saira Semi Condensed', sans-serif;
+    ;
+}
